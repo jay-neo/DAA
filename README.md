@@ -1,0 +1,21 @@
+# Design and Analysis of Algorithms
+## Semester 4
+
+1.	Binary Search [DC]
+2.	Merge Sort [DC]
+3.	Quick Sort [DC]
+4.	Max-Min Problem [DC]
+5.	Fractional Knapsack Problem [Greedy]
+6.	Job Sequencing [Greedy]
+7.	Matrix Chain Multiplication [DP]
+8.	Minimum Spanning Treee Problem : Prim's Algorithm [Graph|Greedy]
+9.	Minimum Spanning Treee Problem : Kruskal's Algorithm [Graph|Greedy]
+10.	Single Source Shortest Path Problem : Dijkstra Algorithm [Graph|Greedy]
+11.	Single Source Shortest Path Problem : Bellman Ford Algorithm [Graph|DP]
+12.	All Pair Shortest Path Problem : Floyd Warsall Algorithm [Graph|DP]
+13.	Travelling Selesman Problem [Graph|Greedy]
+14.	N-Queens Problem using Backtracking [Backtracking]
+15.	Graph Coloring Problem [Graph|Backtracking]
+16.	Hamilton Problem [Graph|Backtracking]
+17.	15-Puzzel Problem [Branch&Bound]
+18.	Graph Traversing Algorithm (DFS & BFS) [Graph]
